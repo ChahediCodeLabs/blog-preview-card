@@ -62,4 +62,4 @@ main .content h1:hover {
 
 - Name - Abderrahmane Chahedi
 - GitHub - [ChahediCodeLabs](https://github.com/ChahediCodeLabs/)
-- Frontend Mentor - [ChahediCodeLabs](https://www.frontendmentor.io/profile/ChahediCodeLabs)
+- Frontend Mentor - [@ChahediCodeLabs](https://www.frontendmentor.io/profile/ChahediCodeLabs)
