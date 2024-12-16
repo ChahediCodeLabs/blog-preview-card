@@ -47,7 +47,7 @@ main .content h1:hover {
 }
 ```
 ```css
-@media (max-width: 350) {
+@media (max-width: 350px) {
   body{
     background-color: white;
   }
