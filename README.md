@@ -36,7 +36,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to change the type of the cursor and how to define an image as the cursor when it hovers over a title, also how to do really beautiful responsive design that integrate the footer with the main content by removing the body's background-color and the main's border, finally; I learned an essential way for a web developer; it's to use a Figma file and extract the CSS styles because this challenge are Free+, It was an amazing experience !
+I learned how to change the type of the cursor and how to define an image as the cursor when it hovers over a title, also how to do a really beautiful responsive design that integrate the footer with the main content by removing the body's background-color and the main's border, finally; I learned an essential way for a web developer; it's to use a Figma file and extract the CSS styles because this challenge are Free+, It was an amazing experience !
 
 Excerpts that I am proud of:
 
